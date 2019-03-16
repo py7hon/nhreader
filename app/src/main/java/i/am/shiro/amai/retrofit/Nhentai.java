@@ -7,7 +7,7 @@ import com.squareup.moshi.Moshi;
 import java.lang.annotation.Retention;
 
 import i.am.shiro.amai.model.Book;
-import i.am.shiro.aookSearchJson;
+import i.am.shiro.bookSearchJson;
 import io.reactivex.Single;
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
