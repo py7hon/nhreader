@@ -22,17 +22,18 @@ import static java.lang.annotation.RetentionPolicy.SOURCE;
 
 /**
  * Created by Shiro on 1/10/2018.
+ * Update by Iqbal Rifai on 
  */
 
 public class Nhentai {
 
-    public static final String WEBPAGE_BASE_URL = "https://nhent.ai/g/";
+    public static final String WEBPAGE_BASE_URL = "https://nhproxy.glitch.me/g/";
 
     public static final String THUMBNAIL_BASE_URL = "https://kontol.nhent.ai/galleries/";
 
     public static final String IMAGE_BASE_URL = "https://i.bakaa.me/galleries/";
 
-    private static final String API_URL = "https://nhent.ai/api/";
+    private static final String API_URL = "https://nhproxy.glitch.me/api/";
 
     public static final Api api = buildApi();
 
