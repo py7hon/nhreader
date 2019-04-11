@@ -22,7 +22,7 @@ import static java.lang.annotation.RetentionPolicy.SOURCE;
 
 /**
  * Created by Shiro on 1/10/2018.
- * Update by Iqbal Rifai on 
+ * Update and Fix by Iqbal Rifai on 11/04/2019.
  */
 
 public class Nhentai {
